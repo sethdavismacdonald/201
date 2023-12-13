@@ -91,3 +91,7 @@ img{
 .title{
     color: black;
 }
+
+ul {
+    list-style-type: disc; /* or another value like 'circle' or 'square' */
+  }
